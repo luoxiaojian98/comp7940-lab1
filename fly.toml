@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'chatbot'
+app = 'lab5-chatbot'
 primary_region = 'hkg'
 
 [build]
